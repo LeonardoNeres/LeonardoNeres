@@ -1,13 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Leonardo e eu sou estudante de Análise e Desenvolvimento de Sistemas, :brazil: .</h2>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
- 
-</div>
-
-###
-
+### 🤖 Linguagens e Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,8 +17,6 @@
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:leonardo.neres2010@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/leonardo-neres-31597934a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/nereslf/)
 
 
 <picture align="center">
