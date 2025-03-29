@@ -1,4 +1,9 @@
-<h2 align="left">Olá 👋! Meu nome é Leonardo e eu sou estudante de Análise e Desenvolvimento de Sistemas, :brazil: .</h2>
+<h2 align="left">Olá 👋! Meu nome é Leonardo Felipe Neres, :brazil: .</h2>
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unipar de Cascavel. Atualmente estudando c#.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
+
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 <div align="left">
@@ -11,20 +16,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+
 
 <h3 align="left">Connect with me!</h3>
 
-
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:leonardo.neres2010@gmail.com)
 
-
-<br clear="both">
-
+<br>
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width=" 900px" height ="600px"> 
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width=" 900px" height ="400px"> 
 </p>
 
 
