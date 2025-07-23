@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Leonardo Felipe Neres, :brazil: .</h2>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unipar de Cascavel. Atualmente estudando C#.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unipar de Cascavel.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
 
 <div style="text-align: center;" align="center">
