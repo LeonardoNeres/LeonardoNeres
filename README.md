@@ -27,8 +27,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/nneres"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" /></a>
   &nbsp;
-<a href="mailto:leonardo.neres2010@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Gmail" /></a>
-  <br/><br/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=leonardo.neres2010@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Gmail" /></a>  <br/><br/>
 
   ### 💻 Tech Stack
 
