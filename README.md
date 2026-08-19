@@ -1,36 +1,52 @@
-<h2 align="left">Olá 👋! Meu nome é Leonardo Felipe Neres, :brazil: .</h2>
+<div align="center">
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Unipar de Cascavel.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p>
+  <h1>Hi 👋, Imma Neres</h1>
 
-<div style="text-align: center;" align="center">
+  <h3>Front-End Developer & UI/UX Design</h3>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoNeres&layout=donut)](https://github.com/LeonardoNeres/github-readme-stats)
-  
+  <p><i>Designing clean interfaces and building meaningful web experiences.</i></p>
+
+  <p>Building intuitive front-end systems with clean architecture and responsive design.</p>
+
 </div>
 
+---
 
-<br>
+### 🚀 About Me
 
-### 🤖 Linguagens e Tecnologias
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
+| Leonardo, Here — Front-end developer and Systems Analysis & Development student.<br/><br/>I enjoy building responsive, user-friendly web applications using **HTML, CSS, JavaScript, and React**, with a focus on UI/UX precision in **Figma**.<br/><br/>Currently sharpening my skills in modern front-end frameworks, state management, and Git workflows.<br/><br/>My goal is simple: write clean code, design beautiful interfaces, and create web experiences that last. | <img src="URL_DA_SUA_ILUSTRACAO_PIXEL_ART" width="250" alt="Pixel Art" /> |
+| :--- | :---: |
+
+---
+
+<div align="center">
+
+  ### 🤝 Connect
+
+  <a href="https://github.com/LeonardoNeres"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="32" height="32" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nneres"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:leonardo.neres2010@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Gmail" /></a>
+
+  <br/><br/>
+
+  ### 💻 Tech Stack
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,git,github,vscode" />
+  </a>
+
+  <br/><br/>
+
+  ### 📊 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoNeres&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  ### 📈 Activity Graph
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoNeres&theme=github-compact" width="100%" alt="Activity Graph" />
+
 </div>
-
-<br>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Imagem" width=" 900px" height ="400px">
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoNeres/LeonardoNeres/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoNeres/LeonardoNeres/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoNeres/LeonardoNeres/output/github-contribution-grid-snake.svg">
-</picture>
